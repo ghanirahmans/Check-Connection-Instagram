@@ -37,7 +37,7 @@ Untuk menjalankan skrip ini, Anda hanya memerlukan Python dan data ekspor dari I
 
 1.  **Clone atau Unduh Proyek**
     ```sh
-    git clone https://url_proyek_anda.git
+    git clone https://github.com/ghanirahmans/Check-Connection-Instagram
     # ATAU unduh file ZIP dan ekstrak.
     ```
 2.  **Pindahkan File Data**
